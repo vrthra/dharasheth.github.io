@@ -15,7 +15,7 @@ tagline: "life in focus."
 {% gist 3716742 %}
 -->
 
-## Posts
+## Posts <a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
 
 <ul class="posts">
   {% for post in site.posts %}
