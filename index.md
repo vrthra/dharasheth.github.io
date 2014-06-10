@@ -5,7 +5,7 @@ tagline: "life in focus."
 ---
 {% include JB/setup %}
 
-![Dhara](https://raw.github.com/dhakkada/dhakkada.github.io/master/images/dha2.jpeg =100x20)
+![Dhara](https://raw.github.com/dhakkada/dhakkada.github.io/master/images/dha2.jpeg =100x)
 
 **Dhara Sheth** is a School Counseling graduate from Portland State University, with a background in Counseling Psychology, and Education. As a volunteer in Portland, she participates in activities organized by SAWERA, IRCO, Blanchet House, and Oregon Food Bank. She believes in non-violence, and being an Indian national she enjoys cooking different Indian dishes. In her free time, she enjoys reading, hiking, playing games, and listening to music.
 
