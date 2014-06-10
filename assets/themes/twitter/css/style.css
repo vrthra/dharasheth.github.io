@@ -1,4 +1,5 @@
 /* Override some defaults */
+img[alt=Dhara] { width: 100px; }
 html, body {
   background-color: #eee;
 }
