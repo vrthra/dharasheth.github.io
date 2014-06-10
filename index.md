@@ -5,14 +5,11 @@ tagline: "life in focus."
 ---
 {% include JB/setup %}
 
-<div style="border: 2px solid black;
-            border-radius: 10px;
-            -moz-border-radius: 10px;
-            -khtml-border-radius: 10px;
-            -webkit-border-radius: 10px;
-            width: 100px;
-            height: 100px;
-            background: url('https://raw.github.com/dhakkada/dhakkada.github.io/master/images/dha2.jpeg');" />
+<img src="https://raw.github.com/dhakkada/dhakkada.github.io/master/images/dha2.jpeg" alt="Dhara" style="float:left; width: 100px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+"/>
 
 **Dhara Sheth** is a School Counseling graduate from Portland State University, with a background in Counseling Psychology, and Education. As a volunteer in Portland, she participates in activities organized by SAWERA, IRCO, Blanchet House, and Oregon Food Bank. She believes in non-violence, and being an Indian national she enjoys cooking different Indian dishes. In her free time, she enjoys reading, hiking, playing games, and listening to music.
 
