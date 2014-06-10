@@ -5,15 +5,9 @@ tagline: "life in focus."
 ---
 {% include JB/setup %}
 
-<!--
-## Food Connection
+## Dhara Sheth
 
 {% gist 3606472 %}
-
-## Life and Companion
-
-{% gist 3716742 %}
--->
 
 ## Posts <a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
 
