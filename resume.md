@@ -76,7 +76,7 @@ Fluent: English, Hindi, Gujarati
 
 ## Mentoring Experience
 
-09.2012--06.2014 **Graduate Mentor for General Ed. Sophomore level regular and online classes** University Studies, Portland State University
+09.2012--06.2014 **Graduate Mentor** for General Ed. Sophomore level regular and online classes, University Studies, Portland State University
 
 * Teaching research and writing process, group facilitation, community building, and retention
 
