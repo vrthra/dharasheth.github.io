@@ -339,13 +339,13 @@ Social Skills group was organized to foster peer relationships and helping. One 
 Phone calls and face-to-face conversations were made to refer students and families to outside agencies such as mental health professionals, eye care, clothing business, churches, food pantries. 
 
 
-## [Leadershiip A]()
+## [Leadership A]()
 
 ### Participates in the design, implementation, management, and evaluation of a comprehensive developmental school counseling program; 
 
 For the foundations of school counseling, we created a comprehensive guidance counseling program for middle school addressing the impact of drug and alcohol use on the students' academic performance.
 
-## [Leadershiip B]()
+## [Leadership B]()
 
 ### Plans and presents school-counseling-related educational programs for use with parents and teachers such as: parent education programs, materials used in classroom guidance, and advisor and advisee programs for teachers.
 
