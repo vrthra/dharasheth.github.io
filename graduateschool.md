@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Internship
+## Internship {#internship}
 
 During my 3rd year in the Counseling Program, I was placed at two school within Beaverton School District. 
 
@@ -18,7 +18,7 @@ Cedar Mill Elementary School
           Under the supervision of school counselor Jan Blakeslee
           School Principal: Brian Horne
 
-## Clinic Practicum
+## Clinic Practicum {#clinicpracticum}
 
 ### Community Counseling Clinic Experience
 
@@ -27,7 +27,7 @@ Spring 2013-Winter 2014
 
 As part of my clinic practicum training, I provided counseling services once a week (43 direct client hours) for Portland community members. During this time, I worked with five individuals and a couple on issues such as anxiety, depression, trauma, self-image, divorce, self-care plan and co-parenting. Major techniques used were Cognitive Behavioral Technique (CBT), Emotion Focused Therapy (EFT), Mindfulness and Dialectical Behavioral Therapy, along with basic counseling skills based on Gerard Egan Counseling Model (Active Listening, Empathy, Reflection, Motivational Interviewing, Immediacy, Goal Setting and Challenges for change). 
 
-## School Counseling Syllabus
+## School Counseling Syllabus {#schoolcounselingsyllabus}
 
 As a School counseling candidate, I went through the [professional
 transformative school counseling curriculum](http://www.pdx.edu/coun/sites/www.pdx.edu.coun/files/School%20POS%202011.pdf)
