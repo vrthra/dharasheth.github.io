@@ -53,16 +53,16 @@ Fluent: English, Hindi, Gujarati
 
 ## Community  Volunteer Work
 
-*Oregon Food Bank* **Volunteer** with Khiwanis club 
-*IRCO* **Home Tutor** Immigrant and Refugee Community Organization
-*World Mental Health Week* **Organizer** Creating awareness about mental health at Gujarat, India
+* *Oregon Food Bank* **Volunteer** with Khiwanis club 
+* *IRCO* **Home Tutor** Immigrant and Refugee Community Organization
+* *World Mental Health Week* **Organizer** Creating awareness about mental health at Gujarat, India
 
 ## Certified Courses  Projects
 
-*MI* - Motivational Interviewing in Schools
-*ASIST* - Applied Suicide Intervention Skills Training
-*CGCP* - Model Comprehensive Guidance  Counseling Program for middle school as per ASCA guidelines
-*Yoga Training* at MS University
+* *MI* - Motivational Interviewing in Schools
+* *ASIST* - Applied Suicide Intervention Skills Training
+* *CGCP* - Model Comprehensive Guidance  Counseling Program for middle school as per ASCA guidelines
+* *Yoga Training* at MS University
 
 ## Student Teaching Experience
 
