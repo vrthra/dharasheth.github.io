@@ -22,25 +22,25 @@ Initial I School Counselor License with K-12 counseling endorsement from [TSPC O
 
 ## Counseling Experience
 
-10.2013--06.2014 School Counseling Intern, Cedar Park Middle School (6-8 grade levels) Beaverton School District, 2 days/week
+10.2013--06.2014 **School Counseling Intern** Cedar Park Middle School (6-8 grade levels) Beaverton School District, 2 days/week
 
 * Action Research on career awareness and post-secondary planning for Latina students
 * Interventions on issues such as bullying, diversity inclusion, transition, identity and race, friendship, social skills, and peer conflicts
 * Initiated the development of after-school Student Support Club
 
-08.2013--06.2014 School Counseling Intern, Cedar Mill Elementary School (K-5 grade levels)  Beaverton School District, 1 day/week
+08.2013--06.2014 **School Counseling Intern** Cedar Mill Elementary School (K-5 grade levels)  Beaverton School District, 1 day/week
 
 * Classroom guidance lessons based on needs assessment
 * Other duties included lunch groups; attending 504, IEP and RTI meetings
 
-04.2013--03.2014 Clinical Mental Health Experience PSU Community Counseling Clinic
+04.2013--03.2014 **Clinical Mental Health Experience** PSU Community Counseling Clinic
 
 * Counseling for anxiety, depression, trauma, self-image, divorce, self-care plan and co-parenting
 * Techniques: Cognitive  Behavioral Technique (CBT), Emotion Focused Therapy (EFT), Mindfulness, Motivational Interviewing
 
 ## Previous Teaching Experience
 
-01.2009--04.2011 High School Teacher [Eklavya School](www.eklavya.org), Ahmedabad, India
+01.2009--04.2011 **High School Teacher** [Eklavya School](www.eklavya.org), Ahmedabad, India
 
 * Taught Psychology in grade 11 and 12 (two years)
 * Taught History in grade 9 (one year)
@@ -53,9 +53,9 @@ Fluent: English, Hindi, Gujarati
 
 ## Community  Volunteer Work
 
-*Oregon Food Bank* (Volunteer)] with Khiwanis club 
-*IRCO* Immigrant and Refugee Community Organization - in home tutor
-*World Mental Health Week* Creating awareness about mental health
+*Oregon Food Bank* **Volunteer** with Khiwanis club 
+*IRCO* **Home Tutor** Immigrant and Refugee Community Organization
+*World Mental Health Week* **Organizer** Creating awareness about mental health at Gujarat, India
 
 ## Certified Courses  Projects
 
