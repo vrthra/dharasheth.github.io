@@ -1,0 +1,63 @@
+---
+layout: page
+title : Graduate School
+header : Graduate School
+group: navigation
+---
+{% include JB/setup %}
+
+As a School counseling candidate, I went through the [professional
+transformative school counseling curriculum](http://www.pdx.edu/coun/sites/www.pdx.edu.coun/files/School%20POS%202011.pdf)
+that prepared me to develop comprehensive school counseling programs based on
+the American School Counselor Association National Model, Oregon's
+Comprehensive Counseling and Guidance Framework, and Oregon's Teacher Standards
+and Practices Commission.  School counselors from Portland State University are
+informed by
+[mission](http://www.pdx.edu/coun/school-counseling-mission-statement) and
+a vision for school counselors that defines five school counselors
+competencies: (1) leadership, (2) advocacy, (3) teaming and collaboration, (4)
+counseling and coordination, and (5) assessment and use of data.
+
+
+# School Counseling Courses
+
+## Year 1
+
+Theories and Interventions I
+Developmental Foundations
+Effective Teaching (Fall and Winter)
+Practicum: Group Counseling (ETC)
+Using Tests in Counseling
+Appraisal Instruments
+Multicultural Counseling
+Diagnosis and Treatment Planning I
+Career and Lifestyle Planning
+
+## Year 2
+
+Parents, Families and Communities in Schools
+Counseling Individuals with Diverse Needs
+Group Counseling
+Legal and Ethical Issues in School Counseling
+Foundation of School Counseling
+Clinical Practicum (2 terms)
+Interpersonal Relationships II: Counseling Skills
+Legal and Ethical Issues in Counseling
+Youth at Risk
+Counseling Children and Youth
+Motivational Interviewing
+Advanced Motivational Interviewing
+Applied Suicide Prevention Skills
+Action Research in Counseling
+
+## Year 3
+
+Peer Supervision 
+Foundations of Substance Abuse Counseling
+Clinical Practicum: Peer Supervision (2 terms)
+Internship (3 terms)
+Action Research in Counseling (3 terms)
+Systematic Perspective on Human Sexuality
+Foundations of Couple/Marriage/Family Counseling
+Grief and Loss
+Diversity project
