@@ -9,7 +9,7 @@ group: navigation
 * [Internship](#internship)
 * [Clinic Practicum](#clinicpracticum)
 
-## Internship
+## [Internship]()
 
 During my 3rd year in the Counseling Program, I was placed at two school within Beaverton School District. 
 
