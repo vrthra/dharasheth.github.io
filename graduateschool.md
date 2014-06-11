@@ -6,7 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Internship {#internship}
+* [Internship](#internship)
+
+## [Internship]{#internship}
 
 During my 3rd year in the Counseling Program, I was placed at two school within Beaverton School District. 
 
