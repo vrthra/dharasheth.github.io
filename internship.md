@@ -11,7 +11,7 @@ group: navigation
 
 ## [Ceder Park Middle School]()
 
-<img src="https://raw.github.com/dhakkada/dhakkada.github.io/master/ images/ceder-park-middle.png" alt="Ceder Park" style="float:left; width: 80px;
+<img src="https://raw.github.com/dhakkada/dhakkada.github.io/master/images/ceder-park-middle.png" alt="Ceder Park" style="float:left; width: 80px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
