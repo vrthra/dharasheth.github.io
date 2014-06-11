@@ -10,17 +10,23 @@ group: navigation
 
 School Counseling graduate from Portland State University, with a background in Counseling Psychology and Education.
 
-## License
+* [License](#license)
+* [Education](#education)
+* [Counseling Experience](#counseling-experience)
+* [Previous Teaching Experience](#previous-teaching-experience)
+
+
+## [License]()
 
 Initial I School Counselor License with K-12 counseling endorsement from [TSPC Oregon](http://www.oregon.gov/TSPC/Pages/index.aspx)
 
-## Education
+## [Education]()
 
 | 09.2011--06.2014 | M.S School Counseling     | Portland State University Oregon **GPA 3.94** |
 | 06.2006--04.2008 | M.A Counseling Psychology | M.S. University Baroda, India |
 | 06.2003--04.2006 | B.A Psychology            | Gujarat University - India  |
 
-## Counseling Experience
+## [Counseling Experience]()
 
 10.2013--06.2014 **School Counseling Intern** Cedar Park Middle School (6-8 grade levels) Beaverton School District, 2 days/week
 
@@ -38,7 +44,7 @@ Initial I School Counselor License with K-12 counseling endorsement from [TSPC O
 * Counseling for anxiety, depression, trauma, self-image, divorce, self-care plan and co-parenting
 * Techniques: Cognitive  Behavioral Technique (CBT), Emotion Focused Therapy (EFT), Mindfulness, Motivational Interviewing
 
-## Previous Teaching Experience
+## [Previous Teaching Experience]()
 
 01.2009--04.2011 **High School Teacher** [Eklavya School](www.eklavya.org), Ahmedabad, India
 
@@ -47,24 +53,24 @@ Initial I School Counselor License with K-12 counseling endorsement from [TSPC O
 * Taught History-Geography in grade 5 (one year)
 * Organized and lead school events, seminars  competitions, field visits, surveys and nature camps
 
-## Multilingual
+## [Multilingual]()
 
 Fluent: English, Hindi, Gujarati
 
-## Community  Volunteer Work
+## [Community Volunteer Work]()
 
 * *Oregon Food Bank* **Volunteer** with Khiwanis club 
 * *IRCO* **Home Tutor** Immigrant and Refugee Community Organization
 * *World Mental Health Week* **Organizer** Creating awareness about mental health at Gujarat, India
 
-## Certified Courses  Projects
+## [Certified Courses & Projects]()
 
 * **MI** - Motivational Interviewing in Schools
 * **ASIST** - Applied Suicide Intervention Skills Training
 * **CGCP** - Model Comprehensive Guidance  Counseling Program for middle school as per ASCA guidelines
 * **Yoga Training** at MS University
 
-## Student Teaching Experience
+## [Student Teaching Experience]()
 
 10.2011--08.2012 **Teacher Aide** Helen Gordon Child Development Center, Portland 
 
@@ -74,12 +80,11 @@ Fluent: English, Hindi, Gujarati
 
 * Taught a class of 30 students in grade 4 as a standard student teacher
 
-## Mentoring Experience
+## [Mentoring Experience]()
 
 09.2012--06.2014 **Graduate Mentor** for General Ed. Sophomore level regular and online classes, University Studies, Portland State University
 
 * Teaching research and writing process, group facilitation, community building, and retention
-
 
 07.2012-12.2013 **International Student Peer Mentor** Portland State University
 
