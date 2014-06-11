@@ -1,10 +1,12 @@
 ---
 layout: page
-title : Dhara Sheth
-header : Dhara Sheth
+title : Resume
+header : Resume
 group: navigation
 ---
 {% include JB/setup %}
+
+## Dhara Sheth
 
 ## License
 Initial I School Counselor License with K-12 counseling endorsement from [TSPC Oregon](http://www.oregon.gov/TSPC/Pages/index.aspx)
