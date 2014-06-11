@@ -39,11 +39,11 @@ group: navigation
 
 (A) Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling; and
 
-* [Demonstration](/skills.html#1A)
+* [Demonstration](/skills.html#foundations-a)
 
 (B) Demonstrates the ability to articulate, model, and advocate for an appropriate school counselor identity and program.
 
-* [Demonstration](/skills.html#1B)
+* [Demonstration](/skills.html#foundations-b)
 
 
 ## [Counseling, Prevention and Intervention]()
@@ -66,23 +66,23 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (A) Demonstrates self-awareness, sensitivity to others, and the skills needed to relate to each diverse individual, group, and classroom;
 
-* [Demonstration](/skills.html#2A)
+* [Demonstration](/skills.html#counseling-prevention-and-intervention-a)
 
 (B) Provides individual and group counseling and classroom guidance to promote the academic, career, and personal and social development of students;
 
-* [Demonstration](/skills.html#2B)
+* [Demonstration](/skills.html#counseling-prevention-and-intervention-b)
 
 (C) Designs and implements prevention and intervention plans related to the effects of: Atypical growth and development, health and wellness, language, ability level, multicultural issues, and factors of resiliency on student learning and development;
 
-* [Demonstration](/skills.html#2C)
+* [Demonstration](/skills.html#counseling-prevention-and-intervention-c)
 
 (D) Demonstrates the ability to use procedures for assessing and managing suicide risk; and
 
-* [Demonstration](/skills.html#2D)
+* [Demonstration](/skills.html#counseling-prevention-and-intervention-d)
 
 (E) Demonstrates the ability to recognize his or her limitations as a school counselor and to seek supervision or refer clients when appropriate.
 
-* [Demonstration](/skills.html#2E)
+* [Demonstration](/skills.html#counseling-prevention-and-intervention-e)
 
 ### Relevant Coursework
 
@@ -104,19 +104,19 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (A) Demonstrates multicultural competencies in relation to diversity, equity, and opportunity in student learning and development;
 
-* [Demonstration](/skills.html#3A)
+* [Demonstration](/skills.html#diversity-and-advocacy-a)
 
 (B) Advocates for the learning and academic experiences necessary to promote the academic, career, and personal/social development of students;
 
-* [Demonstration](/skills.html#3B)
+* [Demonstration](/skills.html#diversity-and-advocacy-b)
 
 (C) Advocates for school policies, programs, and services that enhance a positive school climate and are equitable and responsive to multicultural student populations; and
 
-* [Demonstration](/skills.html#3C)
+* [Demonstration](/skills.html#diversity-and-advocacy-c)
 
 (D) Engages parents, guardians, and families to promote the academic, career, and personal and social development of students.
 
-* [Demonstration](/skills.html#3D)
+* [Demonstration](/skills.html#diversity-and-advocacy-d)
 
 ## [Assessment]()
 
@@ -132,23 +132,23 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (A) Assesses and interprets students’ strengths and needs, recognizing uniqueness in cultures, languages, values, backgrounds, and abilities;
 
-* [Demonstration](/skills.html#4A)
+* [Demonstration](/skills.html#assessment-a)
 
 (B) Selects appropriate assessment strategies that can be used to evaluate a student’s academic, career, and personal/social development;
 
-* [Demonstration](/skills.html#4B)
+* [Demonstration](/skills.html#assessment-b)
 
 (C) Analyzes assessment information in a manner that produces valid inferences when evaluating the needs of individual students and assessing the effectiveness of educational programs;
 
-* [Demonstration](/skills.html#4C)
+* [Demonstration](/skills.html#assessment-c)
 
 (D) Makes appropriate referrals to school and/or community resources; and
 
-* [Demonstration](/skills.html#4D)
+* [Demonstration](/skills.html#assessment-d)
 
 (E) Assesses barriers that impede students’ academic, career, and personal and social development.
 
-* [Demonstration](/skills.html#4E)
+* [Demonstration](/skills.html#assessment-e)
 
 ## [Research and Evaluation]()
 
@@ -168,15 +168,15 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (A) Applies relevant research findings to inform the practice of school counseling;
 
-* [Demonstration](/skills.html#5A)
+* [Demonstration](/skills.html#research-and-evaluation-a)
 
 (B) Develops measurable outcomes for school counseling programs, activities, interventions, and experiences; and
 
-* [Demonstration](/skills.html#5B)
+* [Demonstration](/skills.html#research-and-evaluation-b)
 
 (C) Analyzes and uses data to enhance school counseling programs.
 
-* [Demonstration](/skills.html#5C)
+* [Demonstration](/skills.html#research-and-evaluation-c)
 
 
 ## [Academic Development]()
@@ -194,15 +194,15 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (A) Conducts programs designed to enhance student academic development;
 
-* [Demonstration](/skills.html#6A)
+* [Demonstration](/skills.html#academic-development-a)
 
 (B) Implements strategies and activities to prepare students for a full range of postsecondary options and opportunities; and
 
-* [Demonstration](/skills.html#6B)
+* [Demonstration](/skills.html#academic-development-b)
 
 (C) Implements differentiated instructional strategies that draw on subject matter and pedagogical content knowledge and skills to promote student achievement.
 
-* [Demonstration](/skills.html#6C)
+* [Demonstration](/skills.html#academic-development-c)
 
 ## [Collaboration and Consultation]()
 
@@ -226,23 +226,23 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (A) Works with parents, guardians, and families to act on behalf of their children to address problems that affect student success in school;
 
-* [Demonstration](/skills.html#7A)
+* [Demonstration](/skills.html#collaboration-and-consultation-a)
 
 (B) Locates resources in the community that can be used in the school to improve student achievement and success;
 
-* [Demonstration](/skills.html#7B)
+* [Demonstration](/skills.html#collaboration-and-consultation-b)
 
 (C) Consults with teachers, staff, and community-based organizations to promote student academic, career, and personal/social development;
 
-* [Demonstration](/skills.html#7C)
+* [Demonstration](/skills.html#collaboration-and-consultation-c)
 
 (D) Uses peer helping strategies in the school counseling program; and
 
-* [Demonstration](/skills.html#7D)
+* [Demonstration](/skills.html#collaboration-and-consultation-d)
 
 (E) Uses referral procedures with helping agents in the community such as: mental health centers, businesses, and service groups; to secure assistance for students and their families.
 
-* [Demonstration](/skills.html#7E)
+* [Demonstration](/skills.html#collaboration-and-consultation-e)
 
 ## [Leadership]()
 
@@ -260,16 +260,17 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (A) Demonstrates multicultural competencies in relation to diversity, equity, and opportunity in student learning and development;
 
-* [Demonstration](/skills.html#8A)
+* [Demonstration](/skills.html#leadership-a)
 
 (B) Advocates for the learning and academic experiences necessary to promote the academic, career, and personal/social development of students;
 
-* [Demonstration](/skills.html#8B)
+* [Demonstration](/skills.html#leadership-b)
 
 (C) Advocates for school policies, programs, and services that enhance a positive school climate and are equitable and responsive to multicultural student populations; and
 
-* [Demonstration](/skills.html#8C)
+* [Demonstration](/skills.html#leadership-c)
 
 (D) Engages parents, guardians, and families to promote the academic, career, and personal and social development of students.
 
-* [Demonstration](/skills.html#8D)
+* [Demonstration](/skills.html#leadership-d)
+
