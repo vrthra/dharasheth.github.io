@@ -9,10 +9,11 @@ group: navigation
 ## License
 Initial I School Counselor License with K-12 counseling endorsement from [TSPC Oregon](http://www.oregon.gov/TSPC/Pages/index.aspx)
 
-## Education  
-| 09.2011--06.2014 | M.S School Counseling     | Portland State University Oregon | GPA 3.92 |
-| 06.2006--04.2008 | M.A Counseling Psychology | Maharaja Sayajirao University Baroda, India | |
-| 06.2003--04.2006 | B.A Psychology            | Gujarat University - India  |  |
+## Education
+
+| 09.2011--06.2014 | M.S School Counseling     | Portland State University Oregon GPA 3.92 |
+| 06.2006--04.2008 | M.A Counseling Psychology | Maharaja Sayajirao University Baroda, India |
+| 06.2003--04.2006 | B.A Psychology            | Gujarat University - India  |
 
 ## Multilingual  
 Fluent: English, Hindi, Gujarati  
