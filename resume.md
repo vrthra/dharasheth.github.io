@@ -59,10 +59,10 @@ Fluent: English, Hindi, Gujarati
 
 ## Certified Courses  Projects
 
-* *MI* - Motivational Interviewing in Schools
-* *ASIST* - Applied Suicide Intervention Skills Training
-* *CGCP* - Model Comprehensive Guidance  Counseling Program for middle school as per ASCA guidelines
-* *Yoga Training* at MS University
+* **MI** - Motivational Interviewing in Schools
+* **ASIST** - Applied Suicide Intervention Skills Training
+* **CGCP** - Model Comprehensive Guidance  Counseling Program for middle school as per ASCA guidelines
+* **Yoga Training** at MS University
 
 ## Student Teaching Experience
 
@@ -71,6 +71,7 @@ Fluent: English, Hindi, Gujarati
 * Infant-toddler section with an emphasis on Reggio Emilia approach
 
 10.2011--03.2012 **Student Teacher** Beverly Cleary, Portland Public School, Portland
+
 * Taught a class of 30 students in grade 4 as a standard student teacher
 
 ## Mentoring Experience
