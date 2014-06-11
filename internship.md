@@ -17,8 +17,10 @@ group: navigation
     border-radius: 10px;
     margin: 10px 10px 10px 10px;
 "/> Cedar Park Middle School is one of the middle schools in Beaverton school district in Washington county. This school had 990 students enrolled for 2013-14 year where 15.8% are Hispanic and for 6.3% students English is a second language.
-
----
+  
+  
+  
+  
 
 My duties as counseling intern include:
 
@@ -42,7 +44,10 @@ My duties as counseling intern include:
     margin: 10px 10px 10px 10px;
 "/> Cedar Mill Elementary School is one of the smallest elementary schools in Beaverton School district. 
 
----
+
+  
+  
+  
 
 As a counseling intern, I served for more than 200 hours during 2013-14 my duties include:
 
