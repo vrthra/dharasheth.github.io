@@ -7,8 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 * [Internship](#internship)
+* [Clinic Practicum](#clinicpracticum)
 
-## [Internship](){#internship}
+## [Internship][internship]
 
 During my 3rd year in the Counseling Program, I was placed at two school within Beaverton School District. 
 
@@ -20,7 +21,7 @@ Cedar Mill Elementary School
           Under the supervision of school counselor Jan Blakeslee
           School Principal: Brian Horne
 
-## Clinic Practicum {#clinicpracticum}
+## [Clinic Practicum][clinicpracticum]
 
 ### Community Counseling Clinic Experience
 
