@@ -6,7 +6,7 @@ group:
 ---
 {% include JB/setup %}
 
-## [Foundations 1A]()
+## [Foundations]()
 
 ### [1A]() Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling
 
