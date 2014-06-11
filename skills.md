@@ -27,24 +27,28 @@ For my Action Research project in the school, I adhered to ethical practice by s
 
 ## Informed Consent
 
-For this research study, the researcher would send with students the informed consent letter (appendix A) and field trip permission form (appendix B) at home for parents. Students whose parents would consent for participation would be further contacted. They would be provided with the assent form (appendix C) as they are older than 12 years.
+*For this research study, the researcher would send with students the informed consent letter (appendix A) and field trip permission form (appendix B) at home for parents. Students whose parents would consent for participation would be further contacted. They would be provided with the assent form (appendix C) as they are older than 12 years.*
 
 
 ## Confidentiality, Records & distribution
 
-Each student will assign a number that they will use for pre- and post- survey. Completed student surveys will not be shared with other students or other school staff-members. Students identities will be concealed in tabulating and reporting the research data. Other than the survey, activities are conducted in a group setting. Researcher will inform the students and their parents in the consent and assent form as well as orally that confidentiality cannot be guaranteed in a group setting. All the surveys, assent forms and consent forms will be kept in a locked drawer in school counselor Elizabeth Williams office for three years. Digital records/notes would be stored in a password protected file for three years. No identifiable information would be stored in the digital records. 
+*Each student will assign a number that they will use for pre- and post- survey. Completed student surveys will not be shared with other students or other school staff-members. Students identities will be concealed in tabulating and reporting the research data. Other than the survey, activities are conducted in a group setting. Researcher will inform the students and their parents in the consent and assent form as well as orally that confidentiality cannot be guaranteed in a group setting. All the surveys, assent forms and consent forms will be kept in a locked drawer in school counselor Elizabeth Williams office for three years. Digital records/notes would be stored in a password protected file for three years. No identifiable information would be stored in the digital records.*
 
 ## [Foundations B]()
 
 ### Demonstrates the ability to articulate, model, and advocate for an appropriate school counselor identity and program.
 
-To set the Foundations of School Counseling, we created Comprehensive Guidance Curriculum Project (CGCP) for a middle school. This project was based on American School Counseling Association (ASCA) National Model and Oregon Comprehensive Guidance and Counseling Framework. We presented this project to Portland State faculty members, school administrators, school counselors and school counselors-in-training to create an appropriate school counselor identity and program.
+To set the Foundations of School Counseling, we created [Comprehensive Guidance Curriculum Project](/images/comprehensive_guidance_counseling_program_-_middle_school.docx) (CGCP) for a middle school. This project was based on the American School Counseling Association (ASCA) [National Model](http://www.ascanationalmodel.org/) and [Oregon Comprehensive Guidance and Counseling Framework](http://www.ode.state.or.us/teachlearn/certificates/cam/pdfs/orframe/oregonframework-cgcp.pdf). We presented this project to Portland State faculty members, school administrators, school counselors and school counselors-in-training to create an appropriate school counselor identity and program.
+
+---
 
 It is essential to establish the identity of a school counselor with the first clients: students. In an effort to familiarize students with their school counselors and what do they do we visited classes at Cedar Park in the beginning of the year. These were 20 minutes interactive sessions each to introduce the work of School Counselors to the students Cedar Park that covers Academic, Career, and Personal-Social domain.
 
+[Lesson](/images/cp_lesson.pdf)
+
 ## [Counseling, Prevention and Intervention A]()
 
-### Demonstrates self-awareness, sensitivity to others, and the skills needed to relate to each diverse individual, group, and classroom.
+### Demonstrates [self-awareness](/images/selfawareness_activity.pdf), sensitivity to others, and the skills needed to relate to each diverse individual, group, and classroom.
 
 Quarterly Evaluation from my internship site shows the comments from my supervisors at Cedar Park Middle School. In a summary, it shows that I demonstrated self-awareness, sensitivity and skills as a counselor with respect to my work with individual students, groups and after-school activities. 
 
@@ -56,8 +60,13 @@ Internship evaluation Winter term:
 
 "Dhara demonstrates great school counseling skills and instincts.  She has shown great ability to work with students and staff one-on-one and in groups.  She also shows initiative in developing intervention programs (e.g., girls groups, after school clubs) that are well-thought out and comprehensive in their scope.  Dhara is courageous in her willingness to address important issues within the school environment.  She is professional, thoughtful, and reflective in her training and practice."- Andrew Witt (site-supervisor) 
 
+---
 
 Other comments from the letter of reference from my supervisors, also shows that I demonstrate these skills.
+
+* [Letter 1](/images/sheth_rec_ltr.pdf)
+
+* [Letter 2](/images/letterofrecdharasheth.pdf)
 
 ## [Counseling, Prevention and Intervention B]()
 
