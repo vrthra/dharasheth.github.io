@@ -6,7 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Dhara Sheth
+## Dhara Sheth  
+School Counseling graduate from Portland State University, with a background in Counseling Psychology, and Education.
 
 ## License
 Initial I School Counselor License with K-12 counseling endorsement from [TSPC Oregon](http://www.oregon.gov/TSPC/Pages/index.aspx)
