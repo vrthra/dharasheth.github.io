@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Resume.
+title : Resume
 header : Resume,
 group: navigation
 ---
