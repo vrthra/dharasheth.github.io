@@ -6,10 +6,9 @@ group:
 ---
 {% include JB/setup %}
 
-## [Foundations]()
+## [Foundations A]()
 
-### [1A]()
-Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling
+### Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling
 
 My Professional Disclosure Statement as a Counselor Intern was a step towards an ethical practice. 
 
@@ -35,15 +34,17 @@ For this research study, the researcher would send with students the informed co
 
 Each student will assign a number that they will use for pre- and post- survey. Completed student surveys will not be shared with other students or other school staff-members. Students identities will be concealed in tabulating and reporting the research data. Other than the survey, activities are conducted in a group setting. Researcher will inform the students and their parents in the consent and assent form as well as orally that confidentiality cannot be guaranteed in a group setting. All the surveys, assent forms and consent forms will be kept in a locked drawer in school counselor Elizabeth Williams office for three years. Digital records/notes would be stored in a password protected file for three years. No identifiable information would be stored in the digital records. 
 
-### [1B]() Demonstrates the ability to articulate, model, and advocate for an appropriate school counselor identity and program.
+## [Foundations B]()
+
+### Demonstrates the ability to articulate, model, and advocate for an appropriate school counselor identity and program.
 
 To set the Foundations of School Counseling, we created Comprehensive Guidance Curriculum Project (CGCP) for a middle school. This project was based on American School Counseling Association (ASCA) National Model and Oregon Comprehensive Guidance and Counseling Framework. We presented this project to Portland State faculty members, school administrators, school counselors and school counselors-in-training to create an appropriate school counselor identity and program.
 
 It is essential to establish the identity of a school counselor with the first clients: students. In an effort to familiarize students with their school counselors and what do they do we visited classes at Cedar Park in the beginning of the year. These were 20 minutes interactive sessions each to introduce the work of School Counselors to the students Cedar Park that covers Academic, Career, and Personal-Social domain.
 
-## [Counseling, Prevention and Intervention]()
+## [Counseling, Prevention and Intervention A]()
 
-### [2A]() Demonstrates self-awareness, sensitivity to others, and the skills needed to relate to each diverse individual, group, and classroom.
+### Demonstrates self-awareness, sensitivity to others, and the skills needed to relate to each diverse individual, group, and classroom.
 
 Quarterly Evaluation from my internship site shows the comments from my supervisors at Cedar Park Middle School. In a summary, it shows that I demonstrated self-awareness, sensitivity and skills as a counselor with respect to my work with individual students, groups and after-school activities. 
 
@@ -58,7 +59,9 @@ Internship evaluation Winter term:
 
 Other comments from the letter of reference from my supervisors, also shows that I demonstrate these skills.
 
-### [2B]() Provides individual and group counseling and classroom guidance to promote the academic, career, and personal and social development of students;
+## [Counseling, Prevention and Intervention B]()
+
+### Provides individual and group counseling and classroom guidance to promote the academic, career, and personal and social development of students;
 
 I demonstrated counseling, intervention and prevention skills at both Cedar Mill Elementary School and Cedar Park Middle School by delivering individual, group counseling sessions and classroom guidance. It was based on ASCA standards.
 
@@ -73,9 +76,13 @@ Individual (working through change using motivational interviewing method)
 Groups (Powerful Voices Curriculum)
 Classroom
 
-### [2C]() Designs and implements prevention and intervention plans related to the effects of: Atypical growth and development, health and wellness, language, ability level, multicultural issues, and factors of resiliency on student learning and development.
+## [Counseling, Prevention and Intervention C]()
 
-### [2D]() Demonstrates the ability to use procedures for assessing and managing suicide risk; 
+### Designs and implements prevention and intervention plans related to the effects of: Atypical growth and development, health and wellness, language, ability level, multicultural issues, and factors of resiliency on student learning and development.
+
+## [Counseling, Prevention and Intervention D]()
+
+### Demonstrates the ability to use procedures for assessing and managing suicide risk; 
 
 During my graduate school, I took Applied Suicide Intervention and Skills Training (ASIST) training. It helped me to create a safety plan for one of my client during the practicum, clinic experience. Client had come back for counseling as the anniversary of their previous suicide attempt was coming along with their child custody proceedings.
 This training also helped me to work with a student in the school who had suicidal ideation. It helped me to work with my supervisor in maintaining the relevant notes after our meeting with the student.    
@@ -92,7 +99,9 @@ He agrees to meet with you and me for next week.
 Thank you so much,
 Dhara" 
 
-### [2E]() Demonstrates the ability to recognize his or her limitations as a school counselor and to seek supervision or refer clients when appropriate.
+## [Counseling, Prevention and Intervention E]()
+
+### Demonstrates the ability to recognize his or her limitations as a school counselor and to seek supervision or refer clients when appropriate.
 
 Professional Supervision:
 
@@ -105,9 +114,9 @@ Mental health referral:
 
 At my middle school site, we have a student who showed symptoms of teen depression. As a school counselor, I am trained with mental health criteria from DSM IV. However, I do not officially diagnose it in school setting. Hence, I referred him to school psychologist and also communicated to the parents to consider consulting with a doctor or a mental health counselor. 
 
-## [Diversity and Advocacy]()
+## [Diversity and Advocacy A]()
 
-### [3A]() Demonstrates multicultural competencies in relation to diversity, equity, and opportunity in student learning and development;
+### Demonstrates multicultural competencies in relation to diversity, equity, and opportunity in student learning and development;
 
 
 As a counselor at middle school, I conducted a research study with at-risk Latina students to provide career and post-secondary information. This study addressed the achievement gap and used the interventions with an aim of cultural sensitivity and equity mindedness. 
@@ -118,7 +127,9 @@ Abstract
 
 Providing career development services is an important task of middle school counselors. It is important that our students graduate from high school as college and career ready, in order to compete in the global world. This is particularly crucial with the underrepresented Hispanic/Latino students. We conducted a qualitative study on the impact of career exploration work with at-risk Latina students. Our study included meeting college Latina students at the university, participating in after-school workshops, and individual meetings with the counselor. The study provided students with knowledge of post-secondary options and observed if students were able to work through their own post-secondary plan. Some of their responses showed an increase in positive attitude towards school and the subjects. We also observed a noticeable impact in their aspirations to pursue higher education, which was reflected through their post-secondary plans. While we did not observe improvements in their current academic grades, we believe that it was due to extraneous factors which were outside the control of the study. Since other measurements point to an increased awareness of higher education and career options, we believe that our intervention was successful. Hence collaborative work between counselors and teachers is recommended to gain long-term academic outcomes.
 
-### [3B]() Advocates for the learning and academic experiences necessary to promote the academic, career, and personal/social development of students;
+## [Diversity and Advocacy B]()
+
+### Advocates for the learning and academic experiences necessary to promote the academic, career, and personal/social development of students;
 
 
 Due to scheduling logistics, some of the 8th grade students (20) who are in English Language Program or tier intervention, do not get technology as an elective. Technology class is the main medium for career guidance at this school
@@ -129,7 +140,9 @@ Before the fair, we went into the classrooms and prepared these students about: 
 At the fair, we divided the students into four groups with one counselor each. Students explored several booths based on their interest and curiosity. They inquired about higher studies needed for specific career/jobs. They introduced themselves and ask questions around expectations to be in armed forces. They did different activities such as CPR on manikin, climbing the ladder on Portland fire truck, getting hairstyles and make-ups, push-ups at Air force booth, tying show laces at Nike booth. Thus, they worked in a group and moved from booth to booth based on the interests of individuals within the groups. 
 
 
-### [3C]() Advocates for school policies, programs, and services that enhance a positive school climate and are equitable and responsive to multicultural student populations; 
+## [Diversity and Advocacy C]()
+
+### Advocates for school policies, programs, and services that enhance a positive school climate and are equitable and responsive to multicultural student populations; 
 
 Some of the programs that I was part of or that I was instrumental in initiating with regards to this are:
 
@@ -138,9 +151,9 @@ Student Support Group: A student came out to the school counselors and teachers 
 Developed psycho-educational material for creating awareness around issues of multicultural, racism and institutional oppression for underrepresented and minority communities at Portland State University. An outreach effort was also conducted to invite students for a counseling group.  
 Advocated for a CACREP program for counselors. 
 
-## [Assessment]()
+## [Assessment A]()
 
-### [4A]() Assesses and interprets students’ strengths and needs, recognizing uniqueness in cultures, languages, values, backgrounds, and abilities
+### Assesses and interprets students’ strengths and needs, recognizing uniqueness in cultures, languages, values, backgrounds, and abilities
 
 During the internship, there were several occasions where I had used assessments based on uniqueness of the students. Some of these assessments were based on observations, interactions with the students and their teachers. 
 
@@ -159,7 +172,9 @@ During the school year, several programs and interventions were planned for stud
 One such program was Summit Social Group for 6th grade students that involved working with students on team-building, trust, learning zones, challenges, hike, Ropes Course. 
 Summit Assessment
 
-### [4B]() Selects appropriate assessment strategies that can be used to evaluate a student’s academic, career, and personal/social development;
+## [Assessment B]()
+
+### Selects appropriate assessment strategies that can be used to evaluate a student’s academic, career, and personal/social development;
 
 One of the sample to show the work with a student in all the areas of career, academic, personal/social work would be a SST (Student Support Team) referral report. We had a student who was struggling in her academics, particularly math where she had never met the standards since elementary school. Teachers were concerned for her work and learning. Parents were informed during the conferences and then we decided her to refer for special education  testing. while working for this student, I reviewed/did 
 * Cumulative file
@@ -177,14 +192,17 @@ After evaluating the students development in different areas a report was prepar
 
 Another assessments used were CICO and hug sheet for students struggling in the classroom. This was a positive behavior intervention strategy to motivate the student to complete their work in class. 
 
+## [Assessment C]()
 
-### [4C]() Analyzes assessment information in a manner that produces valid inferences when evaluating the needs of individual students and assessing the effectiveness of educational programs
+### Analyzes assessment information in a manner that produces valid inferences when evaluating the needs of individual students and assessing the effectiveness of educational programs
 
 A student was referred through SST (Student Support Team) for possibility of Special Education Referral in the academic areas. Based on several assessments, the following report was generated to prove a case to further support the student. 
 
 During the school year, Action Research was conducted that was based on initial needs assessments, school report card data, school improvement plan as well as Oregon data. The research findings were shared and discussed with further implications. 
 
-### [4D]() Makes appropriate referrals to school and/or community resources
+## [Assessment D]()
+
+### Makes appropriate referrals to school and/or community resources
 
 Based on the SST referral, we made a referral to the Special Education team for evaluating for attention and math learning difficulty.  
 
@@ -211,7 +229,9 @@ Referral to the Truancy Officer:
 Two of the students were reported to the truancy officer for their chronic absence to the school and dropping out during the academic year. 
 
 
-### [4E]() Assesses barriers that impede students’ academic, career, and personal and social development.
+## [Assessment E]()
+
+### Assesses barriers that impede students’ academic, career, and personal and social development.
 
 A survey was created for current 6th grade students to assess their perception of transition and especially the new middle school. This survey could help to generalize and anticipate the needs and barriers for incoming 6th graders. 
 
@@ -222,29 +242,35 @@ Guess and check assessment
 
 Working through Stages of change with Motivational Interviewing
 
-## [Research and Evaluation]()
+## [Research and Evaluation A]()
 
-### [5A]() Applies relevant research findings to inform the practice of school counseling;
+### Applies relevant research findings to inform the practice of school counseling;
 
 Review of Literature to implement the research study
 
-### [5B]() Develops measurable outcomes for school counseling programs, activities, interventions, and experiences;
+## [Research and Evaluation B]()
 
-### [5C]() Analyzes and uses data to enhance school counseling programs.
+### Develops measurable outcomes for school counseling programs, activities, interventions, and experiences;
+
+## [Research and Evaluation C]()
+
+### Analyzes and uses data to enhance school counseling programs.
 
 As a counselor, I understand the importance of school wide SWIS data as a reference to inform the school counseling program and activities.
 To inform the school counseling program, data from the State and the school were used regarding college and career readiness intervention.
 
-## [Academic Development]()
+## [Academic Development A]()
 
-### [6A]() Conducts programs designed to enhance student academic development;
+### Conducts programs designed to enhance student academic development;
 
 Following study was conducted to address this at Cedar Park Middle School in connection with Portland State University:
 
 
 "To study the effects of career exploration interventions on Hispanic (Latina) students’ academic goals and post-secondary planning." 
 
-### [6B]() Implements strategies and activities to prepare students for a full range of post-secondary options and opportunities.
+## [Academic Development B]()
+
+### Implements strategies and activities to prepare students for a full range of post-secondary options and opportunities.
 
 Different activities and information were shared with the students during career and post-secondary options workshop.
 * Options worksheet
@@ -253,11 +279,13 @@ Different activities and information were shared with the students during career
 * Specific information about armed forces were shared based on students' interest
 * Career Information Systems lessons plan were used
 
-### [6C]() Implements differentiated instructional strategies that draw on subject matter and pedagogical content knowledge and skills to promote student achievement.
+## [Academic Development C]()
 
-## [Collaboration and Consultation]()
+### Implements differentiated instructional strategies that draw on subject matter and pedagogical content knowledge and skills to promote student achievement.
 
-### [7A]() Works with parents, guardians, and families to act on behalf of their children to address problems that affect student success in school;
+## [Collaboration and Consultation A]()
+
+### Works with parents, guardians, and families to act on behalf of their children to address problems that affect student success in school;
 
 
 As a school counselor, it is my belief that student success improves when school and parents collaborate. Here is a summary of a collaboration with parents and teachers to help students at school. 
@@ -268,8 +296,9 @@ Parents emailed us later saying that their daughter had her "Most awesome day" a
 
 Parents were grateful for my work according to the email.  
 
+## [Collaboration and Consultation B]()
 
-### [7B]() Locates resources in the community that can be used in the school to improve student achievement and success;
+### Locates resources in the community that can be used in the school to improve student achievement and success;
 
 Wrap-around services for students that ultimately impacts their learning ability
 
@@ -280,7 +309,9 @@ Beaverton has Welcome center for students and family who are in need of services
 
 Holiday meals and support was provided by coordinating between the church and the families through phone calls. 
 
-### [7C]() Consults with teachers, staff, and community-based organizations to promote student academic, career, and personal/social development;
+## [Collaboration and Consultation C]()
+
+### Consults with teachers, staff, and community-based organizations to promote student academic, career, and personal/social development;
 
 Ongoing consultation with teachers about individual students' performance and development. Sample email.
 
@@ -290,7 +321,9 @@ Besides this, attended
 * RTI meetings
 * SST meetings
 
-### [7D]() Uses peer helping strategies in the school counseling program; and
+## [Collaboration and Consultation D]()
+
+### Uses peer helping strategies in the school counseling program; and
 
 
 At the middle school, we have WEB (Where Everybody Belongs) program that utilizes 8th grade model students to help younger students. During the first day at school, only 6th grade students and WEB leaders come to the school to ease the transition. I was able to see the WEB leaders helping younger students. 
@@ -299,17 +332,21 @@ To create a positive school environment and help students to learn from each oth
 
 Social Skills group was organized to foster peer relationships and helping. One of the lesson was on building trust with peers and helping each other. 
 
-### [7E]() Uses referral procedures with helping agents in the community such as: mental health centers, businesses, and service groups; to secure assistance for students and their families.
+## [Collaboration and Consultation E]()
+
+### Uses referral procedures with helping agents in the community such as: mental health centers, businesses, and service groups; to secure assistance for students and their families.
 
 Phone calls and face-to-face conversations were made to refer students and families to outside agencies such as mental health professionals, eye care, clothing business, churches, food pantries. 
 
 
-## [Leadershiip]()
+## [Leadershiip A]()
 
-### [8A]() Participates in the design, implementation, management, and evaluation of a comprehensive developmental school counseling program; 
+### Participates in the design, implementation, management, and evaluation of a comprehensive developmental school counseling program; 
 
 For the foundations of school counseling, we created a comprehensive guidance counseling program for middle school addressing the impact of drug and alcohol use on the students' academic performance.
 
-### [8B]() Plans and presents school-counseling-related educational programs for use with parents and teachers such as: parent education programs, materials used in classroom guidance, and advisor and advisee programs for teachers.
+## [Leadershiip B]()
+
+### Plans and presents school-counseling-related educational programs for use with parents and teachers such as: parent education programs, materials used in classroom guidance, and advisor and advisee programs for teachers.
 
 Different classroom activities on college and career readiness was conducted with 4th and 5th grade students. One example was career lesson using Bureau of Labor Statistics (BLS) site for students. Students browsed through this site and we encouraged the students to show it to their parents/guardians to discuss further. 
