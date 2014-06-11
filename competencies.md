@@ -6,7 +6,16 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Foundations
+* [Foundations](#Foundations)
+* [Counseling, Prevention and Intervention](#counseling-prevention-and-intervention)
+* [Diversity and Advocacy](#diversity-and-advocacy)
+* [Assessment](#assessment)
+* [Research and Evaluation](#research-and-development)
+* [Academic Development](#academic-development)
+* [Collaboration and Consultation](#collaboration-and-consultation)
+* [Leadership](#leadership)
+
+## [Foundations]()
 
 ### Knowledge:
 
@@ -32,7 +41,7 @@ group: navigation
 
 
 
-## Counseling, Prevention and Intervention
+## [Counseling, Prevention and Intervention]()
 
 ### Knowledge:
 
@@ -64,7 +73,7 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 - To be added
 
-## Diversity and Advocacy
+## [Diversity and Advocacy]()
 
 ### Knowledge:
 
@@ -86,7 +95,7 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (D) Engages parents, guardians, and families to promote the academic, career, and personal and social development of students.
 
-## Assessment
+## [Assessment]()
 
 ### Knowledge:
 
@@ -108,7 +117,7 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (E) Assesses barriers that impede students’ academic, career, and personal and social development.
 
-## Research and Evaluation
+## [Research and Evaluation]()
 
 ### Knowledge:
 
@@ -131,7 +140,7 @@ A) Knows the theories and processes of effective counseling and wellness program
 (C) Analyzes and uses data to enhance school counseling programs.
 
 
-## Academic Development
+## [Academic Development]()
 
 
 ### Knowledge:
@@ -150,7 +159,7 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (C) Implements differentiated instructional strategies that draw on subject matter and pedagogical content knowledge and skills to promote student achievement.
 
-## Collaboration and Consultation
+## [Collaboration and Consultation]()
 
 ### Knowledge:
 
@@ -181,7 +190,7 @@ A) Knows the theories and processes of effective counseling and wellness program
 (E) Uses referral procedures with helping agents in the community such as: mental health centers, businesses, and service groups; to secure assistance for students and their families.
 
 
-## Leadership
+## [Leadership]()
 
 ### Knowledge:
 
