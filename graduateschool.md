@@ -16,12 +16,14 @@ During my 3rd year in the Counseling Program, I was placed at two schools within
 
 ### [Cedar Park Middle School](/internship.html#ceder-park-middle-school)
 
-Under the supervision of school counselors Andrew Witt and Elizabeth Williams          
+Under the supervision of school counselors Andrew Witt and Elizabeth Williams
+
 School Principal: Ken Struckmeier; Assistant Principal: Jeff Wright; Student Manager: Selina Semons
 
 ### [Cedar Mill Elementary School](/internship.html#ceder-mill-elementary-school)
 
 Under the supervision of school counselor Jan Blakeslee
+
 School Principal: Brian Horne
 
 ## [Clinic Practicum]()
