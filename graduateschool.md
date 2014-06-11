@@ -11,7 +11,7 @@ group: navigation
 
 ## [Internship][internship]
 
-[Internship][internship]
+[internship]
 
 During my 3rd year in the Counseling Program, I was placed at two school within Beaverton School District. 
 
