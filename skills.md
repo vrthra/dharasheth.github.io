@@ -8,7 +8,8 @@ group:
 
 ## [Foundations]()
 
-### [1A]() Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling
+### [1A]()
+Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling
 
 My Professional Disclosure Statement as a Counselor Intern was a step towards an ethical practice. 
 
