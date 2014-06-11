@@ -7,8 +7,8 @@ group: navigation
 {% include JB/setup %}
 
 * [Internship](#internship)
-* [Clinic Practicum](#clinic practicum)
-* [School Counseling Syllabus](#school counseling syllabus)
+* [Clinic Practicum](#clinic-practicum)
+* [School Counseling Syllabus](#school-counseling-syllabus)
 
 ## [Internship]()
 
