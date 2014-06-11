@@ -33,7 +33,7 @@ My duties as counseling intern include:
 
 ## [Ceder Mill Elementary School]()
 
-<img src="https://raw.github.com/dhakkada/dhakkada.github.io/master/images/ceder-mills-elementary.jpeg" alt="Ceder Mill" style="float:left; width: 70px;
+<img src="https://raw.github.com/dhakkada/dhakkada.github.io/master/images/ceder-mills-elementary.jpg" alt="Ceder Mill" style="float:left; width: 70px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
