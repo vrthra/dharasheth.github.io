@@ -6,11 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* [Foundations](#Foundations)
+* [Foundations](#foundations)
 * [Counseling, Prevention and Intervention](#counseling-prevention-and-intervention)
 * [Diversity and Advocacy](#diversity-and-advocacy)
 * [Assessment](#assessment)
-* [Research and Evaluation](#research-and-development)
+* [Research and Evaluation](#research-and-evaluation)
 * [Academic Development](#academic-development)
 * [Collaboration and Consultation](#collaboration-and-consultation)
 * [Leadership](#leadership)
