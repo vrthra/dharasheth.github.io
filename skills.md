@@ -8,13 +8,13 @@ group:
 
 ## [Foundations 1A]()
 
-Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling
+### [1A]() Demonstrates the ability to apply and adhere to ethical and legal standards in school counseling
 
 My Professional Disclosure Statement as a Counselor Intern was a step towards an ethical practice. 
 
 [Professional Discolsure Statement](/images/professionaldisclosurestatement.pdf)
 
-I am a member of American School Counseling Association (ASCA), Oregon School Counseling Association (OSCA) and Chi Sigma Iota - Portland State University chapter in order to stay connected with current ethical and professional practices. As a committed professional School Counselor I strive to fully adhere and abide by the Code of Ethics set by the American Counseling Association as well as the Ethical Standards set by the American School Counseling Association and the National Board for Certified Counselors.
+I am a member of the American School Counseling Association (ASCA), Oregon School Counseling Association (OSCA) and Chi Sigma Iota - Portland State University chapter in order to stay connected with current ethical and professional practices. As a committed professional School Counselor I strive to fully adhere and abide by the Code of Ethics set by the American Counseling Association as well as the Ethical Standards set by the American School Counseling Association and the National Board for Certified Counselors.
 
 [Ethical Standards 2010 ASCA](/images/ethicalstandards2010asca.pdf)
 
@@ -34,7 +34,7 @@ For this research study, the researcher would send with students the informed co
 
 Each student will assign a number that they will use for pre- and post- survey. Completed student surveys will not be shared with other students or other school staff-members. Students identities will be concealed in tabulating and reporting the research data. Other than the survey, activities are conducted in a group setting. Researcher will inform the students and their parents in the consent and assent form as well as orally that confidentiality cannot be guaranteed in a group setting. All the surveys, assent forms and consent forms will be kept in a locked drawer in school counselor Elizabeth Williams office for three years. Digital records/notes would be stored in a password protected file for three years. No identifiable information would be stored in the digital records. 
 
-## [Foundations 1B]()
+### [1B]()
 
 Demonstrates the ability to articulate, model, and advocate for an appropriate school counselor identity and program.
 
