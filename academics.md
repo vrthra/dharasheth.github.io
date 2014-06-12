@@ -81,3 +81,6 @@ counseling and coordination, and (5) assessment and use of data.
 * Grief and Loss
 * Diversity project
 
+---
+
+![TSPC CACREP](assets/images/tspc_cacrep.png)
