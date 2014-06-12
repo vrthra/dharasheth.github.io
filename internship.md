@@ -13,17 +13,18 @@ During my 3rd year in the Counseling Program, I was placed at two schools within
 
 ## [Ceder Park Middle School]()
 
-Under the supervision of school counselors Andrew Witt and Elizabeth Williams  
-School Principal: Ken Struckmeier  
-Assistant Principal: Jeff Wright  
-Student Manager: Selina Semons  
-
 <img src="/assets/images/ceder-park-middle.png" alt="Ceder Park" style="float:right; width: 70px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
     margin: 10px 10px 10px 10px;
-"/> Cedar Park Middle School is one of the middle schools in Beaverton school district in Washington county. This school had 990 students enrolled for 2013-14 year where 15.8% are Hispanic and for 6.3% students English is a second language.
+"/> 
+Under the supervision of school counselors Andrew Witt and Elizabeth Williams  
+School Principal: Ken Struckmeier  
+Assistant Principal: Jeff Wright  
+Student Manager: Selina Semons  
+
+Cedar Park Middle School is one of the middle schools in Beaverton school district in Washington county. This school had 990 students enrolled for 2013-14 year where 15.8% are Hispanic and for 6.3% students English is a second language.
   
 My duties as counseling intern include:
 
@@ -39,15 +40,17 @@ My duties as counseling intern include:
 * Career awareness and exploration workshops
 
 ## [Ceder Mill Elementary School]()
-Under the supervision of school counselor Jan Blakeslee  
-School Principal: Brian Horne  
 
 <img src="/assets/images/ceder-mills-elementary.jpg" alt="Ceder Mill" style="float:right; width: 70px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
     margin: 10px 10px 10px 10px;
-"/> Cedar Mill Elementary School is one of the smallest elementary schools in Beaverton School district. 
+"/> 
+Under the supervision of school counselor Jan Blakeslee  
+School Principal: Brian Horne  
+
+Cedar Mill Elementary School is one of the smallest elementary schools in Beaverton School district. 
 
 As a counseling intern, I served for more than 200 hours during 2013-14 my duties include:
 
