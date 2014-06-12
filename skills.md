@@ -96,9 +96,9 @@ I demonstrated counseling, intervention and prevention skills at both Cedar Mill
 
 ## [Counseling, Prevention and Intervention D]()
 
-### Demonstrates the ability to use procedures for assessing and managing suicide risk; 
+### Demonstrates the ability to use procedures for [assessing and managing suicide risk](#counseling-prevention-and-intervention-a); 
 
-During my graduate school, I took Applied Suicide Intervention and Skills Training (ASIST) training. It helped me to create a safety plan for one of my client during the practicum, clinic experience. Client had come back for counseling as the anniversary of their previous suicide attempt was coming along with their child custody proceedings.
+During my graduate school, I took [Applied Suicide Intervention and Skills Training](http://livingworks.net/page/Applied%20Suicide%20Intervention%20Skills%20Training%20(ASIST)) : [ASIST](assets/resources/AS1263-Pamphlet.pdf) training. It helped me to create a safety plan for one of my client during the practicum, clinic experience. Client had come back for counseling as the anniversary of their previous suicide attempt was coming along with their child custody proceedings.
 This training also helped me to work with a student in the school who had suicidal ideation. It helped me to work with my supervisor in maintaining the relevant notes after our meeting with the student.    
 Finally, I am open about talks around suicide with my students. If I feel that the client might be wondering about killing self or harming, I have been upfront in checking with them. 
 Following email conversation between school psychologist and I could give you an example of this:
