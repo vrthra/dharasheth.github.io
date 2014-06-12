@@ -116,6 +116,8 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (D) Engages parents, guardians, and families to promote the academic, career, and personal and social development of students.
 
+* [Demonstration](/skills.html#diversity-and-advocacy-d)
+
 ## [Assessment]()
 
 ### Knowledge:
@@ -246,25 +248,24 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 ### Knowledge:
 
-(A) Understands the cultural, ethical, economic, legal, and political issues surrounding diversity, equity, and multicultural excellence in terms of student learning;
+(A) Knows the qualities, principles, skills, and styles of effective leadership;
 
-(B) Identifies community, environmental, and institutional opportunities that enhance, as well as barriers that impede, the academic, career, and personal and social development of students;
+(B) Knows strategies of leadership designed to enhance the learning environment of schools;
 
-(C) Understands the ways in which educational policies, programs, and practices can be developed, adapted, and modified to be culturally congruent with the needs of students and their families; and
+(C) Knows how to design, implement, manage, and evaluate a comprehensive school counseling program;
 
-(D) Understands multicultural counseling issues, as well as the impact of ability levels, stereotyping, family, socioeconomic status, gender, and sexual identity, and their effects on student achievement.
+(D) Understands the important role of the school counselor as a system change agent; and
+
+(E) Understands the school counselor’s role in student assistance programs, school leadership, curriculum, and advisory meetings.
 
 ### Skills and Practice:
 
-(A) Demonstrates multicultural competencies in relation to diversity, equity, and opportunity in student learning and development;
+(A) Participates in the design, implementation, management, and evaluation of a [comprehensive developmental school counseling program](assets/resources/comprehensive_guidance_counseling_program_-_middle_school.docx); and
 
 * [Demonstration](/skills.html#leadership-a)
 
-(B) Advocates for the learning and academic experiences necessary to promote the academic, career, and personal/social development of students;
+(B) Plans and presents school-counseling-related educational programs for use with parents and teachers such as: [parent education](assets/resources/parent_education.docx) programs, materials used in classroom guidance, and [advisor and advisee programs](assets/resources/advisorylessonoct15and16.docx) for teachers.
 
 * [Demonstration](/skills.html#leadership-b)
 
-(C) Advocates for school policies, programs, and services that enhance a positive school climate and are equitable and responsive to multicultural student populations; and
-
-(D) Engages parents, guardians, and families to promote the academic, career, and personal and social development of students.
 
