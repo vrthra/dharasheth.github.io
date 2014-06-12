@@ -2,10 +2,7 @@
 theme :
   name : twitter
 ---
-<ul class="nav nav-tabs">
-  {% assign pages_list = site.weighted_pages %}
-  {% assign group = 'navigation' %}
-  {% include pages_list %}
-</ul>
+{% include JB/setup %}
+{% include themes/twitter/default.html %}
 
 
