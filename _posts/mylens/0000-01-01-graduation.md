@@ -4,7 +4,7 @@ category : counseling
 tagline: "."
 title: Graduation
 tags : [job, counseling]
-date : 2014-06-12
+date : 2014-06-11
 ---
 {% include JB/setup %}
 
