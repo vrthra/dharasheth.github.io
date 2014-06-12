@@ -116,8 +116,6 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (D) Engages parents, guardians, and families to promote the academic, career, and personal and social development of students.
 
-* [Demonstration](/skills.html#diversity-and-advocacy-d)
-
 ## [Assessment]()
 
 ### Knowledge:
@@ -268,9 +266,5 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 (C) Advocates for school policies, programs, and services that enhance a positive school climate and are equitable and responsive to multicultural student populations; and
 
-* [Demonstration](/skills.html#leadership-c)
-
 (D) Engages parents, guardians, and families to promote the academic, career, and personal and social development of students.
-
-* [Demonstration](/skills.html#leadership-d)
 
