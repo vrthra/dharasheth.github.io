@@ -159,7 +159,7 @@ Before the fair, we went into the classrooms and prepared these students about: 
 At the fair, we divided the students into four groups with one counselor each. Students explored several booths based on their interest and curiosity. They inquired about higher studies needed for specific career/jobs. They introduced themselves and ask questions around expectations to be in armed forces. They did different activities such as CPR on manikin, climbing the ladder on Portland fire truck, getting hairstyles and make-ups, push-ups at Air force booth, tying show laces at Nike booth. Thus, they worked in a group and moved from booth to booth based on the interests of individuals within the groups. 
 
 * [Climbing the ladder on Portland fire truck](assets/images/4509961.jpg)
-* [Portland fire station](assets/images/3258609.jpg)
+* [Portland fire station](assets/images/FireStn1.jpg)
 
 ## [Diversity and Advocacy C]()
 
