@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Graduate School
-header : Graduate School
+title : Academics
+header : Academics
 group: navigation
 ---
 {% include JB/setup %}
