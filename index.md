@@ -5,7 +5,7 @@ tagline: "life in focus."
 ---
 {% include JB/setup %}
 
-<img src="https://raw.github.com/dhakkada/dhakkada.github.io/master/images/dha2.jpeg" alt="Dhara" style="float:left; width: 80px;
+<img src="/images/dha2.jpeg" alt="Dhara" style="float:left; width: 80px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
