@@ -12,15 +12,15 @@ group:
 
 My Professional Disclosure Statement as a Counselor Intern was a step towards an ethical practice. 
 
-[Professional Discolsure Statement](/assets/images/professionaldisclosurestatement.pdf)
+[Professional Discolsure Statement](/assets/resources/professionaldisclosurestatement.pdf)
 
 I am a member of the American School Counseling Association (ASCA), Oregon School Counseling Association (OSCA) and Chi Sigma Iota - Portland State University chapter in order to stay connected with current ethical and professional practices. As a committed professional School Counselor I strive to fully adhere and abide by the Code of Ethics set by the American Counseling Association as well as the Ethical Standards set by the American School Counseling Association and the National Board for Certified Counselors.
 
-[Ethical Standards 2010 ASCA](/assets/images/ethicalstandards2010asca.pdf)
+[Ethical Standards 2010 ASCA](/assets/resources/ethicalstandards2010asca.pdf)
 
-[ACA Code of Ethics](/assets/images/aca-code-of-ethics.pdf)
+[ACA Code of Ethics](/assets/resources/aca-code-of-ethics.pdf)
 
-[NBCC Code of Ethics](/assets/images/nbcccodeofethics.pdf)
+[NBCC Code of Ethics](/assets/resources/nbcccodeofethics.pdf)
 
 For my Action Research project in the school, I adhered to ethical practice by submitting my proposal to Portland State University- Institutional Review Board. Following are the excerpt from the proposal that directly speak about ethical practice. 
 
@@ -38,17 +38,17 @@ For my Action Research project in the school, I adhered to ethical practice by s
 
 ### Demonstrates the ability to articulate, model, and advocate for an appropriate school counselor identity and program.
 
-To set the Foundations of School Counseling, we created [Comprehensive Guidance Curriculum Project](/assets/images/comprehensive_guidance_counseling_program_-_middle_school.docx) (CGCP) for a middle school. This project was based on the American School Counseling Association (ASCA) [National Model](http://www.ascanationalmodel.org/) and [Oregon Comprehensive Guidance and Counseling Framework](http://www.ode.state.or.us/teachlearn/certificates/cam/pdfs/orframe/oregonframework-cgcp.pdf). We presented this project to Portland State faculty members, school administrators, school counselors and school counselors-in-training to create an appropriate school counselor identity and program.
+To set the Foundations of School Counseling, we created [Comprehensive Guidance Curriculum Project](/assets/resources/comprehensive_guidance_counseling_program_-_middle_school.docx) (CGCP) for a middle school. This project was based on the American School Counseling Association (ASCA) [National Model](http://www.ascanationalmodel.org/) and [Oregon Comprehensive Guidance and Counseling Framework](http://www.ode.state.or.us/teachlearn/certificates/cam/pdfs/orframe/oregonframework-cgcp.pdf). We presented this project to Portland State faculty members, school administrators, school counselors and school counselors-in-training to create an appropriate school counselor identity and program.
 
 ---
 
 It is essential to establish the identity of a school counselor with the first clients: students. In an effort to familiarize students with their school counselors and what do they do we visited classes at Cedar Park in the beginning of the year. These were 20 minutes interactive sessions each to introduce the work of School Counselors to the students Cedar Park that covers Academic, Career, and Personal-Social domain.
 
-[Lesson](/assets/images/cp_lesson.pdf)
+[Lesson](/assets/resources/cp_lesson.pdf)
 
 ## [Counseling, Prevention and Intervention A]()
 
-### Demonstrates [self-awareness](/assets/images/selfawareness_activity.pdf), sensitivity to others, and the skills needed to relate to each diverse individual, group, and classroom.
+### Demonstrates [self-awareness](/assets/resources/selfawareness_activity.pdf), sensitivity to others, and the skills needed to relate to each diverse individual, group, and classroom.
 
 Quarterly Evaluation from my internship site shows the comments from my supervisors at Cedar Park Middle School. In a summary, it shows that I demonstrated self-awareness, sensitivity and skills as a counselor with respect to my work with individual students, groups and after-school activities. 
 
@@ -64,9 +64,9 @@ Internship evaluation Winter term:
 
 Other comments from the letter of reference from my supervisors, also shows that I demonstrate these skills.
 
-* [Letter 1](/assets/images/sheth_rec_ltr.pdf)
+* [Letter 1](/assets/resources/sheth_rec_ltr.pdf)
 
-* [Letter 2](/assets/images/letterofrecdharasheth.pdf)
+* [Letter 2](/assets/resources/letterofrecdharasheth.pdf)
 
 ## [Counseling, Prevention and Intervention B]()
 

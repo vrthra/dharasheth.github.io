@@ -19,7 +19,7 @@ School Counseling graduate from Portland State University, with a background in 
 * [Certified Courses & Projects](#certified-courses--projects)
 * [Student Teaching Experience](#student-teaching-experience)
 * [Mentoring Experience](#mentoring-experience)
-* [Resume in PDF](/assets/images/sheth.dhara.pdf)
+* [Resume in PDF](/assets/resources/sheth.dhara.pdf)
 
 
 ## [License]()
