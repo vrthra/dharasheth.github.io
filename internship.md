@@ -11,7 +11,7 @@ group: navigation
 
 ## [Ceder Park Middle School]()
 
-<img src="/images/ceder-park-middle.png" alt="Ceder Park" style="float:right; width: 70px;
+<img src="/assets/images/ceder-park-middle.png" alt="Ceder Park" style="float:right; width: 70px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
@@ -33,7 +33,7 @@ My duties as counseling intern include:
 
 ## [Ceder Mill Elementary School]()
 
-<img src="/images/ceder-mills-elementary.jpg" alt="Ceder Mill" style="float:right; width: 70px;
+<img src="/assets/images/ceder-mills-elementary.jpg" alt="Ceder Mill" style="float:right; width: 70px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
