@@ -6,10 +6,17 @@ group: navigation
 ---
 {% include JB/setup %}
 
+During my 3rd year in the Counseling Program, I was placed at two schools within Beaverton School District. 
+
 * [Cedar Park Middle School](#ceder-park-middle-school)
 * [Cedar Mill Elementary School](#ceder-mill-elementary-school)
 
 ## [Ceder Park Middle School]()
+
+Under the supervision of school counselors Andrew Witt and Elizabeth Williams  
+School Principal: Ken Struckmeier  
+Assistant Principal: Jeff Wright  
+Student Manager: Selina Semons  
 
 <img src="/assets/images/ceder-park-middle.png" alt="Ceder Park" style="float:right; width: 70px;
     -webkit-border-radius: 10px;
@@ -32,6 +39,8 @@ My duties as counseling intern include:
 * Career awareness and exploration workshops
 
 ## [Ceder Mill Elementary School]()
+Under the supervision of school counselor Jan Blakeslee  
+School Principal: Brian Horne  
 
 <img src="/assets/images/ceder-mills-elementary.jpg" alt="Ceder Mill" style="float:right; width: 70px;
     -webkit-border-radius: 10px;

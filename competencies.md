@@ -2,7 +2,7 @@
 layout: page
 title : TPSC Competencies
 header : TPSC Competencies
-group: navigation
+group: 
 ---
 {% include JB/setup %}
 
