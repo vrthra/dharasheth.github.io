@@ -13,13 +13,7 @@ During my 3rd year in the Counseling Program, I was placed at two schools within
 
 ## [Ceder Park Middle School]()
 
-<img src="/assets/images/ceder-park-middle.png" alt="Ceder Park" style="float:right; width: 70px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    margin: 10px 10px 10px 10px;
-"/> 
-Under the supervision of school counselors Andrew Witt and Elizabeth Williams
+<img src="/assets/images/ceder-park-middle.png" alt="Ceder Park" style="float:right; width: 70px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; margin: 10px 10px 10px 10px;"/> Under the supervision of school counselors Andrew Witt and Elizabeth Williams
 
 * School Principal: Ken Struckmeier
 * Assistant Principal: Jeff Wright
@@ -42,13 +36,7 @@ My duties as counseling intern include:
 
 ## [Ceder Mill Elementary School]()
 
-<img src="/assets/images/ceder-mills-elementary.jpg" alt="Ceder Mill" style="float:right; width: 70px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    margin: 10px 10px 10px 10px;
-"/> 
-Under the supervision of school counselor Jan Blakeslee
+<img src="/assets/images/ceder-mills-elementary.jpg" alt="Ceder Mill" style="float:right; width: 70px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; margin: 10px 10px 10px 10px;"/> Under the supervision of school counselor Jan Blakeslee
 
 * School Principal: Brian Horne
 
