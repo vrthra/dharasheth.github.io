@@ -260,11 +260,11 @@ A) Knows the theories and processes of effective counseling and wellness program
 
 ### Skills and Practice:
 
-(A) Participates in the design, implementation, management, and evaluation of a [comprehensive developmental school counseling program](assets/resources/comprehensive_guidance_counseling_program_-_middle_school.docx); and
+(A) Participates in the design, implementation, management, and evaluation of a [comprehensive developmental school counseling program](assets/resources/pdx-graduate/comprehensive_guidance_counseling_program_-_middle_school.docx); and
 
 * [Demonstration](/skills.html#leadership-a)
 
-(B) Plans and presents school-counseling-related educational programs for use with parents and teachers such as: [parent education](assets/resources/parent_education.docx) programs, materials used in classroom guidance, and [advisor and advisee programs](assets/resources/advisorylessonoct15and16.docx) for teachers.
+(B) Plans and presents school-counseling-related educational programs for use with parents and teachers such as: [parent education](assets/resources/pdx-graduate/parent_education.docx) programs, materials used in classroom guidance, and [advisor and advisee programs](assets/resources/pdx-graduate/advisorylessonoct15and16.docx) for teachers.
 
 * [Demonstration](/skills.html#leadership-b)
 
