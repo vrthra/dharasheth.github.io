@@ -3,7 +3,7 @@ layout: page
 title : Academics
 header : Academics
 group: navigation
-weight: 3
+weight: 2
 ---
 {% include JB/setup %}
 

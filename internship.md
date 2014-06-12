@@ -3,6 +3,7 @@ layout: page
 title : Internship
 header : Internship
 group: navigation
+weight: 1
 ---
 {% include JB/setup %}
 

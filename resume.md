@@ -3,7 +3,7 @@ layout: page
 title : Resume
 header : Resume
 group: navigation
-weight: 2
+weight: 3
 ---
 {% include JB/setup %}
 
