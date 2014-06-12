@@ -1,8 +1,9 @@
 ---
 layout: page
 title : Resume
-header : Resume,
+header : Resume
 group: navigation
+weight: 2
 ---
 {% include JB/setup %}
 
