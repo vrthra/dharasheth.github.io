@@ -21,7 +21,7 @@ tagline: "life in focus."
 
 ---
 
-### My posts <a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
+### My posts<a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
 
 <ul class="posts">
   {% for post in site.posts %}
