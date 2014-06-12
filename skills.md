@@ -92,7 +92,7 @@ I demonstrated counseling, intervention and prevention skills at both Cedar Mill
 
 ### Designs and implements prevention and intervention plans related to the effects of: [Atypical growth and development](assets/resources/pdx-graduate/interventionforatypicalgrowthanddevelopment.rtf), [health and wellness](assets/resources/pdx-graduate/healthandwellness_1.docx), language, [ability level](assets/resources/pdx-graduate/report_on_individuals_with_exceptional_abilities.docx), [multicultural issues](assets/resources/pdx-graduate/lgbtqmulticultural_issues.pdf), and [factors of resiliency on student learning and development](assets/resources/pdx-graduate/6th-programoutline.docx).
 
-[Blow it off using a jellyfish. For kids who needs some help breathing and dont want to use words.](assets/images/7707798.jpg)
+[Blow it off using a jellyfish. For kids who needs some help breathing and dont want to use words.](assets/images/JellyBreath.jpg)
 
 ## [Counseling, Prevention and Intervention D]()
 
