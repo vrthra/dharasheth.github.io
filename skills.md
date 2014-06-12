@@ -54,11 +54,11 @@ Quarterly Evaluation from my internship site shows the comments from my supervis
 
 Internship evaluation fall term:
 
-"Dhara has been proactive in engaging in school wide initiatives, helping to start and moderate a Latina Girls' Group. I have had the opportunity to observe her in a variety of situations with students. Dhara is an excellent listener and her interview skills are superb. We have also benefited from her analytical skills and insights in file reviews and classroom observations." - Andrew Witt (site-supervisor) 
+_"Dhara has been proactive in engaging in school wide initiatives, helping to start and moderate a Latina Girls' Group. I have had the opportunity to observe her in a variety of situations with students. Dhara is an excellent listener and her interview skills are superb. We have also benefited from her analytical skills and insights in file reviews and classroom observations."_ - Andrew Witt (site-supervisor) 
 
 Internship evaluation Winter term:
 
-"Dhara demonstrates great school counseling skills and instincts.  She has shown great ability to work with students and staff one-on-one and in groups.  She also shows initiative in developing intervention programs (e.g., girls groups, after school clubs) that are well-thought out and comprehensive in their scope.  Dhara is courageous in her willingness to address important issues within the school environment.  She is professional, thoughtful, and reflective in her training and practice."- Andrew Witt (site-supervisor) 
+_"Dhara demonstrates great school counseling skills and instincts.  She has shown great ability to work with students and staff one-on-one and in groups.  She also shows initiative in developing intervention programs (e.g., girls groups, after school clubs) that are well-thought out and comprehensive in their scope.  Dhara is courageous in her willingness to address important issues within the school environment.  She is professional, thoughtful, and reflective in her training and practice."_ - Andrew Witt (site-supervisor) 
 
 ---
 
@@ -74,20 +74,25 @@ Other comments from the letter of reference from my supervisors, also shows that
 
 I demonstrated counseling, intervention and prevention skills at both Cedar Mill Elementary School and Cedar Park Middle School by delivering individual, group counseling sessions and classroom guidance. It was based on ASCA standards.
 
-Sample Work:
-Cedar Mill Elementary School:
-Individual
-Lunch Bunch Groups 
-Classroom Guidance lesson 
+#### Sample Work:
 
-Cedar Park Middle School:
-Individual (working through change using motivational interviewing method)
-Groups (Powerful Voices Curriculum)
-Classroom
+##### Cedar Mill Elementary School:
+
+* [Individual](assets/resources/johari_self-awareness.pdf)
+* [Lunch Bunch Groups](assets/resources/girls_friendship_group.pdf)
+* [Classroom Guidance Lesson](assets/resources/classroom_guidance_mi.pdf)
+
+##### Cedar Park Middle School:
+
+* [Individual : Working through change using motivational interviewing method](assets/images/work_w.individual_student.jpg)
+* [Groups](assets/images/identity_chart.jpg) : [Powerful Voices Curriculum](assets/resources/pv_curriculum_packet.pdf)
+* [Classroom](assets/resources/cp_lesson.pdf)
 
 ## [Counseling, Prevention and Intervention C]()
 
-### Designs and implements prevention and intervention plans related to the effects of: Atypical growth and development, health and wellness, language, ability level, multicultural issues, and factors of resiliency on student learning and development.
+### Designs and implements prevention and intervention plans related to the effects of: [Atypical growth and development](assets/resources/interventionforatypicalgrowthanddevelopment.rtf), [health and wellness](assets/resources/healthandwellness_1.docx), language, [ability level](assets/resources/report_on_individuals_with_exceptional_abilities.docx), [multicultural issues](assets/resources/lgbtqmulticultural_issues.pdf), and [factors of resiliency on student learning and development](assets/resources/6th-programoutline.docx).
+
+[Blow it off using a jellyfish. For kids who needs some help breathing and dont want to use words.](assets/images/7707798.jpg)
 
 ## [Counseling, Prevention and Intervention D]()
 
