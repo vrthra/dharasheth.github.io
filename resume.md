@@ -53,7 +53,7 @@ Initial I School Counselor License with K-12 counseling endorsement from [TSPC O
 
 ## [Previous Teaching Experience]()
 
-01.2009--04.2011 **High School Teacher** [Eklavya School](www.eklavya.org), Ahmedabad, India
+01.2009--04.2011 **High School Teacher** [Eklavya School](http://www.eklavya.org), Ahmedabad, India
 
 * Taught Psychology in grade 11 and 12 (two years)
 * Taught History in grade 9 (one year)
