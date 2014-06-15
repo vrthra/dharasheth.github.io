@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Journal
-header: Journal
+title: My Lens
+header: My Lens
 group: navigation
 tagline: "life in focus."
 ---
