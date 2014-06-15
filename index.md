@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Lens
-tagline: "life in focus."
+title: Dhara Sheth
+tagline: "School Counsellor"
 ---
 {% include JB/setup %}
 
